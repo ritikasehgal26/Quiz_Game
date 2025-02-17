@@ -1,0 +1,48 @@
+export const quizQuestions = [
+  {
+    question: "What is the capital of France?",
+    option1: "Madrid",
+    option2: "Berlin",
+    option3: "Paris",
+    option4: "Rome",
+    answer: "Paris",
+    correctAnswer: "option3",
+  },
+  {
+    question: "Which planet is known as the Red Planet?",
+    option1: "Venus",
+    option2: "Mars",
+    option3: "Jupitor",
+    option4: "Saturn",
+    answer: "Mars",
+    correctAnswer: "option2",
+  },
+  {
+    question: "Who wrote the play Romeo and Juliet?",
+    option1: "William Shakespeare",
+    option2: "Charles Dickens",
+    option3: "Jane Austen",
+    option4: "Mark Twain",
+    answer: "William Shakespeare",
+    correctAnswer: "option1",
+  },
+  {
+    question: "What is the chemical symbol for Gold?",
+    option1: "Au",
+    option2: "Ag",
+    option3: "Fe",
+    option4: "Pb",
+    answer: "Au",
+    correctAnswer: "option1",
+  },
+  {
+    question:
+      "Which programming language is primarily used for web development?",
+    option1: "Python",
+    option2: "Java",
+    option3: "HTML",
+    option4: "C++",
+    answer: "HTML",
+    correctAnswer: "option3",
+  },
+];

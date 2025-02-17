@@ -1,0 +1,41 @@
+Create a quiz app using react and redux 
+Acceptance criteria
+1 Quiz app should ask 5 questions
+2 If user did not answer the question visible in ui in 10secs then next question will be shown
+3 If user answered the question within timelimit(10secs) then on click of next, user should be able to see next question then again timer will reset.
+4 If user submits all 5 questions then a submit button will come  and on click of that button result should be shown that how many are correct and incorrect.
+5 Questions: 
+What is the capital of France?
+a) Madrid
+b) Berlin
+c) Paris
+d) Rome
+
+Which planet is known as the Red Planet?
+a) Venus
+b) Mars
+c) Jupiter
+d) Saturn
+
+Who wrote the play Romeo and Juliet?
+a) William Shakespeare
+b) Charles Dickens
+c) Jane Austen
+d) Mark Twain
+
+What is the chemical symbol for Gold?
+a) Au
+b) Ag
+c) Fe
+d) Pb
+
+Which programming language is primarily used for web development?
+a) Python
+b) Java
+c) HTML
+d) C++
+
+Answer: c) Paris , Answer: b) Mars, Answer: a) William Shakespeare, Answer: a) Au, Answer: c) HTML
+
+
+
